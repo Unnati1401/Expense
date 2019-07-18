@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360232623389",
+    "firebase_url": "https://momapp-3d41b.firebaseio.com",
+    "project_id": "momapp-3d41b",
+    "storage_bucket": "momapp-3d41b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360232623389:android:08bc67741df583d4",
+        "android_client_info": {
+          "package_name": "com.example.priyanshi.momapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360232623389-7tbbb8cib0h1cpotce9jrv1tq2qnumik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priyanshi.momapp",
+            "certificate_hash": "25eff8e79cfd10d8bc1849b1160f48197b449575"
+          }
+        },
+        {
+          "client_id": "360232623389-0ujp3ftqq47a9s83t6lr5oasaju2j1ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUKNqFeGaXJhIody1OIw8n3m2zjWeO2Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360232623389-0ujp3ftqq47a9s83t6lr5oasaju2j1ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
